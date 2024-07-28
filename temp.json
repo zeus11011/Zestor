@@ -1,0 +1,9 @@
+{
+    "type":"http",
+    "data":{
+        "url":"https://google.com",
+        "r_type":"GET",
+        "body":"",
+        "headers":{}
+    }
+}
